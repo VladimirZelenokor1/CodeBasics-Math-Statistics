@@ -3,6 +3,7 @@
 This repository contains solutions to exercises from "Math and Statistics For AI, Data Science" course by CodeBasics.
 
 The Course produces the key concepts of Math and Statistics. 
+
 This course is carefully curated to simulate real-time organizational experience to prepare for the current job market.
 
 Course Curriculum:
